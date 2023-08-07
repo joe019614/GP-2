@@ -1,0 +1,247 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.layoutmobile {
+  width: 375px;
+}
+
+.result p,.scored h1 {
+  color: white;
+}
+
+.com {
+  color: white
+}
+
+.yourresult {
+  border-radius: 45px;
+  background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  Text-align: center;
+}
+
+
+.scored {
+  width: 5rem;
+  height: 5rem;
+  background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+  padding: 5%;
+  border-radius: 50%;
+  line-height: 0.7;
+}
+
+.scored p {
+  color: gray
+}
+
+.col-12 {
+  display: flex;
+}
+
+.row {
+  justify-content: flex-start;
+}
+
+
+
+
+
+.flex-direction_column{
+  display:flex;
+  flex-direction: column;
+  align-items: center;}
+
+
+
+
+
+
+  .circle0 {
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    margin-top: 20px;
+  }
+
+.task0 {
+  margin-bottom: 10px;
+  color: #313c52;
+  font-size: 25px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+  text-align: left;
+}
+
+
+.photo1 {
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.circle1 {
+  background-color: #fff6f5;
+  width: 310px;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.task1 {
+  padding-top: 10px;
+  padding-left: 10px;
+  float: left;
+  color: #e66b6e;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.mark1 {
+  float: right;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  color: black;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.photo2 {
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.circle2 {
+  background-color: #fffbf2;
+  width: 310px;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.task2 {
+  padding-top: 10px;
+  padding-left: 10px;
+  float: left;
+  color: #efb748;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.mark2 {
+  float: right;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  color: black;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.photo3 {
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.circle3 {
+  background-color: #f2fbfa;
+  width: 310px;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.task3 {
+  padding-top: 10px;
+  padding-left: 10px;
+  float: left;
+  color: #44a890;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.mark3 {
+  float: right;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  color: black;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.photo4 {
+  float: left;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.circle4 {
+  background-color: #f3f3fd;
+  width: 310px;
+  height: 40px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.task4 {
+  padding-top: 10px;
+  padding-left: 10px;
+  float: left;
+  color: #7b82ff;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.mark4 {
+  float: right;
+
+  padding-top: 10px;
+  padding-right: 10px;
+  color: black;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+}
+
+.circle5 {
+  background-color: #4936f2;
+  width: 310px;
+  height: 40px;
+  border-radius: 20px;
+  margin-top: 30px;
+}
+
+.task5 {
+  margin-left: 10px;
+  padding-top: 8px;
+  color: white;
+  font-size: 18px;
+  font-family: "Borel", cursive;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-weight: 500;
+  text-align: center;
+}
+
+
+
+
